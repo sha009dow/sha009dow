@@ -3,8 +3,12 @@
 <a href="#"><img width="480" height="300px" align="right" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif"/></a>
 
 ## 🙋‍♂️ About Me
+    
+- 👨‍ I have worked on NFT, Smart Contracts, Solidity - Openzeplin ERC721.
 
-- 👨‍💻 I’m currently learning **Web3 - BlockChain - NFT - Solidity - Ethereum - Big Data **
+- 👨‍💻 I’m currently learning ** Web3 - BlockChain - NFT - Solidity - Ethereum - Big Data **
+    
+- 👨‍ Metaverse Integration with smart contracts.    
 
 - 📫 How to reach me [Email](mailto:sha009dow@gmail.com)
 
@@ -13,13 +17,10 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png/"></a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/c-plus-plus-logo.png"/> </a>
-        <a href="https://opensea.io/" target="_blank"> <img width="50" height="40px" src="https://zh.wikipedia.org/wiki/File:NFT_Icon.png"/> </a>
-
+  
 </p>
 
 
