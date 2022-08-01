@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently learning **Web3 & BlockChain**
+- 👨‍💻 I’m currently learning **Web3 - BlockChain - NFT - Solidity - Ethereum - Big Data **
 
 - 📫 How to reach me [Email](mailto:sha009dow@gmail.com)
 
