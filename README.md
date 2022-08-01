@@ -18,8 +18,8 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png/"></a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/c-plus-plus-logo.png"/> </a>
-    <a href="https://portswigger.net/burp" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
-    <a href="https://sqlmap.org/" target="_blank"> <img width="50" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png"/></a>
+  
+        <a href="https://opensea.io/" target="_blank"> <img width="50" height="40px" src="https://zh.wikipedia.org/wiki/File:NFT_Icon.png"/></a>
 
 </p>
 
