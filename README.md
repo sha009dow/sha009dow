@@ -1,15 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shadow009 <h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malik Naveed <h1>
 <h3 align="center">I'm a Block Chain Developer & Security Researcher from Pakistan.</h3>
 <a href="#"><img width="480" height="300px" align="right" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif"/></a>
 
 ## 🙋‍♂️ About Me
     
-- 👨‍ I have worked on NFT, Smart Contracts, Solidity - Openzeplin ERC721.
+- 👨‍ I have worked on NFT, Smart Contracts, Solidity - Openzeplin ERC721, Metaverse Integration.
 
-- 👨‍💻 I’m currently learning ** Web3 - BlockChain - NFT - Solidity - Ethereum - Big Data **
+- 👨‍💻 I’m currently learning ** Web3 - BlockChain - Ethereum - Big Data **
     
-- 👨‍ Metaverse Integration with smart contracts.    
-
 - 📫 How to reach me [Email](mailto:sha009dow@gmail.com)
 
 
